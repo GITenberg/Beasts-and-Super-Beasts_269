@@ -1,0 +1,53 @@
+_repo: Beasts-and-Super-Beasts_269
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Saki
+    aliases:
+    - Munro, H. H. (Hector Hugh)
+    - Munro, Hector Hugh
+    birthdate: 1870
+    deathdate: 1916
+    gutenberg_agent_id: '152'
+    url: http://www.gutenberg.org/2009/agents/152
+    wikipedia: http://en.wikipedia.org/wiki/Saki
+description: "Beasts and Super-Beasts is a collection of short stories, written by\
+  \ Saki (the literary pseudonym of Hector Hugh Munro) and first published in 1914.\
+  \ The title parodies that of George Bernard Shaw's Man and Superman.\nAlong with\
+  \ The Chronicles of Clovis, Beasts and Super-Beasts is one of Saki's best-known\
+  \ works. It was his final collection of stories before his death in World War I,\
+  \ and several of its stories, in particular \"The Open Window\", are reprinted frequently\
+  \ in anthologies.\nThe majority of the volume's stories deal in some fashion with\
+  \ animals, providing the source for its title. The character of Clovis Sangrail,\
+  \ featured in earlier works by Saki, appears in several stories. Most of the stories\
+  \ appeared previously in periodicals.\nStylistically, Beasts and Super-Beasts displays\
+  \ the simple language, cynicism and wry humor that characterize Saki's earlier literary\
+  \ output.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1995-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '269'
+  wikidata: Q4876883
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcsh 'Short stories, English'
+- !lcsh 'Supernatural -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The she-wolf -- Laura -- The boar-pig -- The Brogue -- The hen --
+  The open window -- The treasure-ship -- The cobweb -- The lull -- The unkindest
+  blow -- The romancers -- The Schartz-Metterklume method -- The seventh pullet --
+  The blind spot -- Dusk -- A touch of realism -- Cousin Teresa -- The Yarkand manner
+  -- The Byzantine omelette -- The Feast of Nemesis -- The dreamer -- The quince tree
+  -- The forbidden buzzards -- The stake -- Clovis on parental responsibilities --
+  A holiday task -- The stalled ox -- The story-teller -- A defensive diamond -- The
+  elk -- Down pens -- The name-day -- The lumber room -- Fur -- The philanthropist
+  and the happy cat -- On approval.
+title: Beasts and Super-Beasts
+url: http://www.gutenberg.org/ebooks/269
+wikipedia:
+- https://en.wikipedia.org/wiki/Beasts_and_Super-Beasts
